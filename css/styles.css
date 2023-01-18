@@ -1,0 +1,91 @@
+body {
+	margin: 0;
+	text-align: center;
+	background-color: #DFD3C3;
+}
+h2{
+	color: #C85C8E;
+	font-size: 66px;
+	margin: 0;
+}
+h3{
+	color: #F4EAD5;
+}
+h4{
+	font-family: oswald, sans-serif;
+	color: #3C6255;	
+}
+h1{
+	margin: 0 auto 0 auto;
+	color: #EB455F;
+		font-family: oswald, sans-serif;
+		font-size: 50px;
+}
+p{
+	color: #579BB1;
+		font-family: cursive;
+		font-size: 2em;
+}
+.ps{
+	margin: 60px auto 50px auto;
+	pa
+}
+.dotted
+		{
+			border-style: none;
+			border-top-style: dotted;
+			border-color: grey;
+			border-width: 8px;
+			width: 15%;
+			padding-bottom: 40px;
+			margin-top: 100px;
+			}
+
+.cloud1{
+	margin-left: 500px;
+}
+.cloud2 {
+	position: absolute;
+}
+
+
+.top-container{
+	background-color:#CBEDD5 ;
+	padding-top: 50px;
+	padding-bottom: 0px;
+}
+
+.middle-container{
+	background-color:#F7F5EB ;
+	padding-top: 30px;
+	padding-bottom: 0px;
+}
+.skills{
+	padding-top: 50px;
+
+
+}
+.webdevelop{
+	padding-top: 90px;
+	margin-right: 50px;
+	float: left;
+}
+.designing {
+	float: right;
+	width: 350px;
+	margin-left: 50px;
+}
+.skill-row{
+	width: 50%;
+	text-align: left;
+	margin: 100px auto 100px auto;
+	padding-bottom: 200px;
+	line-height: 50px;
+
+
+}
+.contact-me{
+	padding-top: 60px;
+}
+.bottom-container{
+	margin-top: ;
